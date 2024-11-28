@@ -5,7 +5,7 @@
 ## 🚀 Como entrar na organização
 
 Para entrar na *organização* Gamellito, você precisa criar uma conta nesse site, e depois disso nós precisamos convidar você. Se você preencheu o [Google Forms que passamos](link_do_formulario), você será convidado.
-Se você não preencheu ainda, [entre em contato conosco](mailto:projetogamellito@gmail.com).
+Se você não preencheu ainda, [entre em contato conosco](mailto:projetogamellito@uel.br).
 
 ## 📚 Tutorial de como criar uma conta no GitHub
 
