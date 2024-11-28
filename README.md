@@ -27,15 +27,17 @@ A aba Projetos possui todos os projetos do Gamellito. Eles são organizados da s
 
 #### Colunas:
 
-- **Todo:** (precisa começar)
-- **WIP:** (fazendo)
-- **Done:** (terminou)
+- **A Fazer** 
+- **Em Progresso** 
+- **Concluído** 
 
 Uma issue é como um post de rede social: é possível adicionar uma descrição e imagens, e é possível reagir e responder à outras issues.
 
 No projeto, dá pra colocar um tamanho, prioridade e prazo pra cada tarefa, por exemplo:
 - A issue "Adicionar botão no site" possui tamanho pequeno e prioridade baixa. Prazo: sexta-feira.
 - A issue "Adicionar sistema de blog no site" possui tamanho grande e prioridade alta. Prazo: mês que vem.
+
+Também é possível definir quem vai fazer cada tarefa.
 
 Depois que você entrar no projeto, você será colocado em um time, e haverá uma coluna com todas as suas tarefas, junto com o prazo para concluí-las.
 
