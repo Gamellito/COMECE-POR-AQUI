@@ -21,6 +21,8 @@ A organização Gamellito possui duas abas importantes:
 
 A aba Repositórios serve para guardar repositórios, que são basicamente pastas com arquivos dentro. Você atualmente está lendo o arquivo README.md do repositório COMECE-POR-AQUI!
 
+Dentro desse repositório existem também outros tutoriais. Para acessá-los, clique na pasta "tutoriais" ali em cima.
+
 ### 2. 📋 Projetos
 
 A aba Projetos possui todos os projetos do Gamellito. Eles são organizados da seguinte forma: cada coisa que precisa ser feita é uma issue, e cada issue é colocada em uma coluna.
@@ -39,7 +41,9 @@ No projeto, dá pra colocar um tamanho, prioridade e prazo pra cada tarefa, por 
 
 Também é possível definir quem vai fazer cada tarefa.
 
-Depois que você entrar no projeto, você será colocado em um time, e haverá uma coluna com todas as suas tarefas, junto com o prazo para concluí-las.
+Depois que você entrar no projeto, você será colocado em um time, e haverá um projeto com todas as suas tarefas, junto com o prazo para concluí-las.
+
+Qualquer dúvida [entre em contato com o Jean](mailto:jeancarlopolo@uel.br)
 
 ---
 
