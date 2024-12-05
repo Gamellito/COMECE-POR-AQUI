@@ -43,7 +43,7 @@ Também é possível definir quem vai fazer cada tarefa.
 
 Depois que você entrar no projeto, você será colocado em um time, e haverá um projeto com todas as suas tarefas, junto com o prazo para concluí-las.
 
-Qualquer dúvida [entre em contato com o Jean](mailto:jeancarlopolo@uel.br)
+Qualquer dúvida, [entre em contato com o Jean.](mailto:jeancarlopolo@uel.br)
 
 ---
 
